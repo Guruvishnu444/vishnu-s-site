@@ -1,0 +1,1 @@
+import{j as e}from"./index-CYjrtpYt.js";function n(){return e.jsx("iframe",{title:"3D background",src:"https://my.spline.design/meeet-yu3k1AMZvtoQwE2nmGdAqGlB/",loading:"lazy","aria-hidden":!0,className:"fixed inset-0 w-full h-full pointer-events-none border-0 opacity-[0.35] z-0"})}export{n as default};
