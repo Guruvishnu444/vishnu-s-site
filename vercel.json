@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "routes": [
+    { "src": "/assets/(.*)", "dest": "/assets/$1" },
+    { "src": "/projects.json", "dest": "/projects.json" },
+    { "src": "/(.*)", "dest": "/404.html" }
+  ]
+}
